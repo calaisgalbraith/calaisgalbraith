@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Calais 😊</h1>
 <h3 align="center">A full-stack web developer with a strong passion for improving backend performance</h3>
 
-- 🔭 I’m currently working our [MyParty](https://github.com/Polaris-Capstone-My-Party/myParty.git) Capstone Project & refining my [AdLister](https://github.com/calaisgalbraith/adlister.git)
+- 🔭 I’m currently working on learning C# and .Net & refining my Java Skills
 
 - 📫 How to reach me 
   - 📧 Email: **calaisgalbraith@gmail.com**
