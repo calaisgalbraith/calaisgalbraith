@@ -1,8 +1,7 @@
 <h1 align="center">Hello there, I'm Calais 😊</h1>
 <h3 align="center">A full-stack web developer with a strong passion for improving backend performance</h3>
 
-- 🔭 I’m currently working on learning C# and .Net & refining my Java Skills
-
+- 🔭 I’m currently working on expanding my Java/API skills and learning C#!
 - 📫 How to reach me 
   - 📧 Email: **calaisgalbraith@gmail.com**
   - 💼 Linkedin: https://linkedin.com/in/calaisgalbraith
