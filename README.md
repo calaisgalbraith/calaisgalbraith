@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Calais 😊</h1>
 <h3 align="center">A full-stack web developer with a strong passion for enhancing user interfaces and writing efficient, high-quality code</h3>
 
-- 🔭 I’m currently working on expanding my Javascript and Java skills, writing APIs, & developing frameworks.
+- 🔭 I’m currently working on learning React, expanding my Javascript and Java skills, & developing frameworks.
 - 📫 How to reach me 
   - 📧 Email: **calaisgalbraith@gmail.com**
   - 💼 Linkedin: https://linkedin.com/in/calaisgalbraith
